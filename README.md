@@ -1,4 +1,4 @@
-- A Masters student in Artificial Intelligence and data science
+- Artificial Intelligence and data science
 - Interested in Machine Learning, Programming, Data Analysis and Data Visualization 
 
 <!--
